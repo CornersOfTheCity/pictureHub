@@ -1,0 +1,12 @@
+{
+    "name": "TSM",
+    "symbol": "TSM",
+    "description": "Only Possible On Solana",
+    "image": "https://github.com/CornersOfTheCity/pictureHub/blob/main/202205221449271.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
